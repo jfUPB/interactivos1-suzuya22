@@ -75,3 +75,4 @@ por ultimo se generan circulos mediante la funcion seno y se definen colores ale
       ellipse(x, y, circleSize, circleSize);
 ```
 ### Patron generado
+![image](https://github.com/jfUPB/interactivos1-suzuya22/blob/main/src/assets/captura%20actividad%209.png)
