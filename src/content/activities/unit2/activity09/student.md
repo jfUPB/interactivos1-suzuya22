@@ -1,4 +1,5 @@
 ## Codigo semaforo 
+``` Js
 let estadoActual = "rojo";  // Estado inicial del semáforo
 let tiempoInicio = 0;       // Tiempo de inicio
 let duracionRojo = 3000;    // Duración del rojo en milisegundos (3 segundos)
@@ -34,7 +35,7 @@ function draw() {
     }
   }
 }
-
+```
 ### Estado rojo
 Evento que se evalúa: Se evalúa si ha transcurrido el tiempo de duración del estado "rojo".  
 Condición para el evento: Si el tiempo actual (millis() - tiempoInicio) es mayor que duracionRojo (3000 ms o 3 segundos).  
