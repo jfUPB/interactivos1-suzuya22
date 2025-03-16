@@ -1,0 +1,8 @@
+### Reflexión sobre la Unidad 2: Microcontroladores y Máquinas de Estado
+En esta unidad aprendí cómo funcionan los microcontroladores y cómo se pueden programar para responder a estímulos externos mediante el uso de máquinas de estado finitas. Antes, tenía una noción general sobre los microcontroladores, pero ahora comprendo mejor su importancia en la interacción entre hardware y software, así como en la creación de sistemas dinámicos y automatizados.
+
+Uno de los aspectos más interesantes fue experimentar con el micro:bit y ver cómo un código relativamente simple puede controlar entradas y salidas para generar respuestas en tiempo real. Al trabajar con botones, sensores y la pantalla LED, entendí la importancia de manejar correctamente los eventos y las transiciones de estado para evitar errores en la ejecución.
+
+Además, me llamó la atención la aplicación de estos conceptos en la industria del entretenimiento digital. Aunque en videojuegos y experiencias interactivas no siempre se usan microcontroladores directamente, los principios detrás de su programación se aplican en sistemas de control, simulaciones y dispositivos de entrada. Por ejemplo, los sensores de movimiento en consolas o las interacciones en dispositivos de realidad aumentada y virtual dependen de la lógica que exploramos en esta unidad.
+
+El mayor desafío fue diseñar e implementar la bomba temporizada, ya que requería una estructura de código bien organizada para manejar el tiempo, las transiciones de estado y las entradas de usuario sin interrupciones. Este ejercicio me ayudó a mejorar mi capacidad para estructurar programas más complejos y a pensar en soluciones eficientes para sistemas interactivos.
