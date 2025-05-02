@@ -1,5 +1,5 @@
 ## Codigo bomba en p5.js
-
+```js
 // Estados de la bomba
 const CONFIGURATION_MODE = 0;
 const COUNTDOWN_MODE = 1;
@@ -162,6 +162,7 @@ function obtenerNombreEstado(estado) {
 
 function keyPressed() {
   if (key === 'a' || key === 'A') registrarEvento('A');
+```
   if (key === 'b' || key === 'B') registrarEvento('B');
   if (key === 's' || key === 'S') registrarEvento('S');
   if (key === 't' || key === 'T') registrarEvento('T');
